@@ -4,13 +4,9 @@ I'm a **game developer** and **security enthusiast**, passionate about exploring
 
 I have a deep love for **C++**, constantly reinventing the wheel to understand how things truly work under the hood. Outside of coding, you’ll find me **playing guitar, kickboxing, or practicing Wing Tsun**.  
 
----
-
 # Open-Source ❤️  
 
 While much of my work has been in **freelance and private repositories**, I’m a strong advocate for **open-source development**. I’m actively shifting my workflow to contribute more to the **community**, sharing knowledge and building powerful tools.  
-
----
 
 # Projects 🎮  
 
