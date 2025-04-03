@@ -15,6 +15,8 @@ I’m currently focused on developing my **dream project**, **Harvested**, a **m
 
 ### **Koi Pixel Studios** 🎨  
 Alongside a friend, I co-founded **[Koi Pixel Studios](https://www.koipixelstudios.com)**, a small startup that designs **stylized 3D models** for game studios and indie developers.  
+
+Here are some assets we made:
 ![BlockWood_Trailer_Trim-ezgif com-resize(1)](https://github.com/user-attachments/assets/9daa4df7-cbc8-4064-a9f0-d48ee845533d)
 
 
