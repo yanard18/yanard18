@@ -14,10 +14,10 @@ While much of my work has been in **freelance and private repositories**, I’m 
 I’m currently focused on developing my **dream project**, **Harvested**, a **multiplayer survival game**. I recently released a **devlog**—check it out [here](https://www.youtube.com/watch?v=bf8m04J9dss) and follow the journey!  
 
 ### **Koi Pixel Studios** 🎨  
+![BlockWood_Trailer_Trim-ezgif com-resize(1)](https://github.com/user-attachments/assets/9daa4df7-cbc8-4064-a9f0-d48ee845533d)
+
 Alongside a friend, I co-founded **[Koi Pixel Studios](https://www.koipixelstudios.com)**, a small startup that designs **stylized 3D models** for game studios and indie developers.  
 
-Here are some assets we made:
-![BlockWood_Trailer_Trim-ezgif com-resize(1)](https://github.com/user-attachments/assets/9daa4df7-cbc8-4064-a9f0-d48ee845533d)
 
 
 Let's connect and build something amazing together! 🛠️✨  
