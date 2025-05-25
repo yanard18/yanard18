@@ -1,6 +1,6 @@
 # About Me 🚀  
 
-I'm a **game developer** and **security enthusiast**, passionate about exploring modern technologies from a **security perspective** and crafting immersive worlds as my **artistic expression**.  
+I'm a **game developer** and **security enthusiast**, passionate about exploring modern technologies from a **security perspective** and crafting immersive worlds as my **artistic expression**. Study software engineering at Bahcesehir Ugur Educational university.
 
 I have a deep love for **C++**, constantly reinventing the wheel to understand how things truly work under the hood. Outside of coding, you’ll find me **playing guitar, kickboxing, or practicing Wing Tsun**.  
 
